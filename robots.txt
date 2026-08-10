@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-momentalnymi-vyplatami-c-c7afb.github.io
+Sitemap: https://kazino-s-momentalnymi-vyplatami-c-c7afb.github.io/sitemap.xml
